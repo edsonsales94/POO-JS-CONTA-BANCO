@@ -1,0 +1,12 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "pacote do bank para cliente",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
